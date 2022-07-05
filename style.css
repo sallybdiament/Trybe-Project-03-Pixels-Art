@@ -1,0 +1,58 @@
+.color {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: -2px;
+  border: black solid 1px;
+}
+
+/* #color-palette li:nth-of-type( 1 ) {
+  background-color: black;
+} */
+
+/* #color-palette li:nth-of-type( 2 ) {
+  background-color: blue;
+}
+
+#color-palette li:nth-of-type( 3 ) {
+  background-color: purple;
+}
+
+/* #color-palette li:nth-of-type( 4 ) {
+  background-color: red;
+} */ */
+
+#pixel-board {
+  margin-left: 130px;
+  padding-left: 100px;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border: solid black 1px;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+.divLinhas {
+  height: 40px;
+}
+
+#clear-board {
+  font-size: 20px;
+  text-align: center;
+  width: 100px;
+  height: 40px;
+  margin-left: 200px;
+}
+
+#board-size {
+  width: 100px;
+}
+
+#button_VQV {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
